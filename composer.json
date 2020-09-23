@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/macros",
+    "name": "codica-studio/macros",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/macros",
+    "homepage": "https://github.com/codica-studio/macros",
     "license": "MIT",
     "authors": [
         {
